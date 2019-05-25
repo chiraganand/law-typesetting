@@ -1,4 +1,4 @@
-# Law typesetting software vision v1.0
+# Law Typesetting
 
 ## Vision
 
@@ -40,7 +40,7 @@ The software should follow these principles and guidelines.
 * Backend engine will process these documents and convert them into
   HTML and LaTeX code.
 
-### 2. Version control (sophisticated diff)
+### 2. Version Control
 
 * Each version of law will be versioned.
 * Front-end should be able to list differences between different
@@ -48,7 +48,7 @@ The software should follow these principles and guidelines.
   doing a regular line-based `diff` which tells a user text lines
   which changed.
 
-### 3. Handle amendment bills
+### 3. Handle Amendment Bills
 
 * Amendment Bills will be passed by the parliament while existing
   versions are getting worked upon by the community. A separate branch
